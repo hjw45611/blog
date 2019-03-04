@@ -13,7 +13,7 @@ layout: default
       </div>
       <div class="post-list-body">
         
-      <!--   <div class="all-posts" post-cate="All">
+        <div class="all-posts" post-cate="All">
           {% for post in site.posts %}
             <a class="post-list-item" href="{{ post.url | prepend: site.baseurl }}">
               <h2>
@@ -22,9 +22,9 @@ layout: default
               <span class="">{{ post.date | date: "%b %-d, %Y" }}</span>
             </a>
           {% endfor %}
-        </div> -->
+        </div>
         <!-- <div class="posts-in-categories"> -->
-        {% for category in site.categories %}
+        <!-- {% for category in site.categories %}
           <div post-cate="{{category | first}}">
             {% for posts in category  %}
               {% for post in posts %}
@@ -39,7 +39,7 @@ layout: default
               {% endfor %}
             {% endfor %}
           </div>
-        {% endfor %}
+        {% endfor %} -->
         
         <!-- </div> -->
       </div>
