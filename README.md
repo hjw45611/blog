@@ -1,26 +1,4 @@
 # About
 
-计划要把博客帖子搬运到GitHub上来，但我是一个Android开发，Html与JS都是一知半解的状态，只能先放着吧。
----
 
-
-**使用时请注明模板来源:  Jekyll theme by [Gaohaoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
-
-<!--
-
-## 被引用信息
-
-使用了我的模板并写明来源的人：   
-
-* [dreamholy](http://dreamholy.github.io/)
-
-没有注明来源的人：
-
-* [yangshuailing](http://yangshuailing.github.io/com/)
-* [huapu728](http://huapu728.github.io/)
-* [greatbuger](http://greatbuger.github.io/) 
-
-
--->
-
-
+一开始在CSDN上发布过一些文章，后来又在看雪论坛与吾爱破解发布过一些技术分享，但总感觉不成体系，而且本地上也存有一些各类文档，所以打算整理后统一放到Github上来，而GitHub一直是我寻找轮子、学习技术的地方，但很少放置自己的代码，用过gitee、GitLab、coding来存放代码，所以后期会着重博客中的部分代码。
