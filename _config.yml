@@ -11,7 +11,7 @@ github_repo: "https://github.com/hjw45611/blog.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "your time is limited, so don't waste it living someone else's life!"
+sidebar-about-description: "Action speak louder than words."
 sidebar-avatar: blog/img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
