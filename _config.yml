@@ -6,7 +6,7 @@ email: hjw45611@gmail.com
 description: "Study and practice,years of it."
 keyword: "JovenHe, JovenHe Blog, JovenHe的博客, hjw45611"
 url: "https://hjw45611.github.io/blog/"          # your host, for absolute URL
-baseurl: "/"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/hjw45611/blog.git" # you code repository
 
 # Sidebar settings
