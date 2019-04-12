@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      2019-04-11-AndroidManifest标签说明
+title:      AndroidManifest标签说明
 subtitle:   application标签
-date:       2019-04-07
+date:       2019-04-11
 author:     JovenHe
 header-img: img/post-bg-2019-01-10.jpg
 catalog: true
@@ -90,4 +90,3 @@ android:allowBackup="false"
 
 
 当然问题的产生还是由于没有总结日常开发中需要了解的Android新版本新特性，所以还是要多关注Android的一些新动态的，尤其是和开发相关的。
-
