@@ -87,6 +87,10 @@ android:networkSecurityConfig="@xml/network_security_config"
 android:allowBackup="false"
 ```
 
+运行如果报错的话，再加入一句
 
+```xml
+tools:replace="android:allowBackup"
+```
 
 当然问题的产生还是由于没有总结日常开发中需要了解的Android新版本新特性，所以还是要多关注Android的一些新动态的，尤其是和开发相关的。
