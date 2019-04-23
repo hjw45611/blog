@@ -93,4 +93,12 @@ android:allowBackup="false"
 tools:replace="android:allowBackup"
 ```
 
+
+
+## 图标显示
+
+Android8 的app图标显示和之前不同，
+
+## 总结
+
 当然问题的产生还是由于没有总结日常开发中需要了解的Android新版本新特性，所以还是要多关注Android的一些新动态的，尤其是和开发相关的。
