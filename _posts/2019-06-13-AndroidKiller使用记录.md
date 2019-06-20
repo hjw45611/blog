@@ -17,23 +17,29 @@ Android Killer好久前就安装过了，当时尝鲜后看了看就没用了，
 
 因为是在吾爱破解上下载的压缩包，所以解压缩后点击exe文件直接用的，记得一开始打开apk时反编译失败，网上查找后更新了apktool就可以了。
 
+### 主要窗口
+
+##### 主页
+
 <img src="https://i.loli.net/2019/06/18/5d087c8d44f5b37819.png" alt="开始页面.png" title="开始页面.png" />
 
 直接点击打开，选择一个apk文件即可
 
-经过分析后可查看工程信息：
+经过分析后可查看工程信息
+
+##### 工程信息窗口
 
 能看到app的名称、包名、入口Activity、版本号、以及四大组件信息和权限相关。
 
 <img src="https://i.loli.net/2019/06/18/5d087ecce5f2172992.png" alt="apk工程信息.png" title="apk工程信息.png" />
 
-查看工程管理器：
+##### 工程管理器窗口
 
 包含assets、res、smali、manifest等信息
 
 <img src="https://i.loli.net/2019/06/18/5d087ecd1c8f299109.png" alt="apk工程管理器.png" title="apk工程管理器.png" />
 
-查看工程搜索：
+##### 工程搜索窗口
 
 包含搜索字符、替换字符、搜索范围、文件类型、字符解码等选项。
 
