@@ -18,7 +18,7 @@ tags:
 
 Hybra使用的前提是两个主机需要在同一网段下，我是用WMware虚拟机搭建的，两台模拟器的网络适配器都调成桥接模式。确保两者能ping通。
 
-<img src="https://i.loli.net/2019/08/03/xDp9rNjnaftvJzB.png" alt="虚拟机网络适配器.png" title="虚拟机网络适配器.png" width=50% />
+<img src="https://i.loli.net/2019/08/03/xDp9rNjnaftvJzB.png" alt="虚拟机网络适配器.png" title="虚拟机网络适配器.png" width="50%" />
 
 ### 启动应用
 
