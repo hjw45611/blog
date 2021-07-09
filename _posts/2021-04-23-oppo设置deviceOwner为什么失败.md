@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      oppo设置deviceOwner为什么失败
+title:      Oppo设置deviceOwner为什么失败
 subtitle:   系统分析
 date:       2021-04-23
 author:     JovenHe
 header-img: img/post-bg-hook.jpg
 catalog: true
-tags:
+tags:D
     - deviceOwner
 	- framework
     
